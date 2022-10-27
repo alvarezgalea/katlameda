@@ -1,0 +1,2279 @@
+# Translation of Themes - Integral in Spanish (Colombia)
+# This file is distributed under the same license as the Themes - Integral package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2022-04-23 04:38:54+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/3.0.0\n"
+"Language: es_CO\n"
+"Project-Id-Version: Themes - Integral\n"
+
+#. Description of the theme
+#, gp-priority: high
+msgid "Integral One Page Business Theme - Build a professional website for your business with Integral free WordPress theme. Its strength lies in displaying content on a single page in a simple and elegant manner. It's super easy to customize and allows you to create a stunning website in minutes. It boasts a rich color scheme with light and dark sections and a clean, minimal, modern design with smooth parallax effect. Integral is built with Bootstrap, is responsive and integrates with popular plugins like Contact Form 7, Woocommerce. Integral is now compatible with Elementor & Beaver Builder page-builders. Perfect for professionals, agencies, small business, corporate business, startup, freelancer, development company, personal, portfolio, blog, real estate, lawyer, travel and photography websites."
+msgstr "Integral es un tema de una página para negocios - Crea una web profesional para tu negocio con el tema gratuito Integral para WordPress. Su fuerza radica en mostrar el contenido en una sola página de una manera sencilla y elegante. Es muy fácil de personalizar y te permite crear una web impresionante en minutos. Presume de una rica combinación de colores con secciones claras y oscuras y un diseño limpio, mínimo y moderno con un suave efecto Parallax. Integral está construido con Bootstrap, es adaptable y se integra con plugins populares como Contact Form 7 y WooCommerce. Ahora, Integral es compatible con los maquetadores de páginas Elementor y Beaver Builder. Es perfecto para profesionales, agencias, pequeños negocios, empresas, empresas emergentes, autónomos, empresas de desarrollo, webs personales, porfolios, blogs, inmobiliarias, abogados, webs de viajes y fotografía."
+
+#. Theme Name of the theme
+#, gp-priority: high
+msgid "Integral"
+msgstr "Integral"
+
+#: inc/welcome/theme-welcome.php:89
+msgid "Upgrade to Integral Pro!"
+msgstr "¡Actualiza a Integral Pro!"
+
+#: inc/welcome/theme-welcome.php:88 inc/welcome/theme-welcome.php:145
+msgid "Hire Us"
+msgstr "Contrátanos"
+
+#: inc/welcome/customization-service.php:5
+msgid "Request A Quote"
+msgstr "Solicita un presupuesto"
+
+#: inc/welcome/customization-service.php:4
+msgid "Services include: custom website design & development, theme customization, plugin development, security audits, malware removal, site restoration, migrations, debugging and more."
+msgstr "Los servicios incluyen: Diseño y desarrollo web personalizado, personalización de temas, desarrollo de plugins, auditorías de seguridad, eliminación de malware, restauración de sitios, migraciones, depuración y mucho más."
+
+#: inc/welcome/customization-service.php:3
+msgid "Need help? We provide additional website design & development services to our customers for an hourly rate."
+msgstr "¿Necesitas ayuda? Proporcionamos a nuestros clientes servicios adicionales de diseño y desarrollo web por una tarifa por horas."
+
+#: inc/welcome/customization-service.php:2
+msgid "Customization Services"
+msgstr "Servicios de personalización"
+
+#: inc/welcome/theme-welcome.php:83
+msgid "Read our instructions to setup Integral and begin customizing your site."
+msgstr "Lee nuestras instrucciones para configurar Integral y empezar a personalizar tu sitio."
+
+#: inc/welcome/theme-welcome.php:82
+msgid "Thank you for choosing Integral! "
+msgstr "¡Gracias por elegir Integral!"
+
+#: inc/welcome/getting-started.php:50
+msgid "UNLOCK Instagram Section"
+msgstr "DESBLOQUEAR sección de Instagram"
+
+#: inc/welcome/import-demo.php:3
+msgid "Make your site look like our live demo; import all demo content and settings."
+msgstr "Haz que tu sitio se vea como nuestra demostración en vivo: importa todo el contenido y los ajustes de la demostración."
+
+#: inc/welcome/theme-welcome.php:143
+msgid "Help & Tutorials"
+msgstr "Ayuda y tutoriales"
+
+#: inc/options.php:1805
+msgid "Use this section to display your latest Instagram photos."
+msgstr "Usa esta sección para mostrar tus últimas fotos de Instagram."
+
+#: inc/options.php:1803
+msgid "Instagram"
+msgstr "Instagram"
+
+#: inc/extras.php:36
+msgid "Continue Reading"
+msgstr "Continuar leyendo"
+
+#: inc/options.php:856 inc/options.php:1144 inc/options.php:1388
+#: inc/options.php:1936
+msgid "Copy and paste the required icon prefix and class name from the <a href=\"https://fontawesome.com/icons?d=gallery&m=free\" target=\"_blank\">FontAwesome Icons list</a> and choose from 1100+ icons. For example, to use the smiley face icon enter: far fa-smile"
+msgstr "Copia y pega el prefijo del ícono requerido y el nombre de la clase de la <a href=\"https://fontawesome.com/icons?d=gallery&m=free\" target=\"_blank\">lista de íconos de Font Awesome</a> y elige entre más de 1100 íconos. Por ejemplo, para usar el ícono de la carita sonriente, introduce: far fa-smile"
+
+#: inc/widgets/feature_widget.php:106 inc/widgets/service_widget.php:104
+msgid "far fa-smile"
+msgstr "far fa-smile"
+
+#: inc/widgets/feature_widget.php:106 inc/widgets/service_widget.php:104
+msgid "and choose from 1500+ icons. For example, to use the smiley face icon enter"
+msgstr "y elige de entre más de 1500 íconos. Por ejemplo, para usar el ícono de la carita sonriente, introduce"
+
+#: inc/widgets/feature_widget.php:106 inc/widgets/service_widget.php:104
+msgid "Copy and paste the required icon prefix and class from the"
+msgstr "Copia y pega el prefijo del ícono requerido y el nombre de la clase de la"
+
+#: inc/welcome/theme-welcome.php:87
+msgid "Setup Instructions"
+msgstr "Instrucciones de instalación"
+
+#. translators: 1: plugin name(s).
+#: inc/class-tgm-plugin-activation.php:352
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] "Hay una actualización disponible para: %1$s."
+msgstr[1] "Hay actualizaciones disponibles para los siguientes plugins %1$s."
+
+#. Template Name of the theme
+msgid "Page-Builder Template (Elementor & Beaver Builder)"
+msgstr "Plantilla para maquetadores de páginas (Elementor y Beaver Builder)"
+
+#: sections/default.php:25
+msgid "A one-page theme for professionals, agencies and businesses.<br />Create a stunning website in minutes."
+msgstr "Un tema de una página para profesionales, agencias y empresas.<br />Crea una web impresionante en cuestión de minutos."
+
+#: inc/welcome/theme-welcome.php:133
+msgid "VERSION 1.5.9"
+msgstr "VERSIÓN 1.5.9"
+
+#: inc/welcome/getting-started.php:37
+msgid "Now with 2 FREE child themes included; Optimal Pro & Elemental Pro."
+msgstr "Ahora con 2 temas hijo GRATIS incluidos: Optimal Pro y Elemental Pro."
+
+#: category.php:24
+msgid "Category"
+msgstr "Categoría"
+
+#: inc/options.php:373
+msgid "Pick a color for links and highlights"
+msgstr "Elige un color para los enlaces y los puntos destacados"
+
+#: inc/options.php:366
+msgid "Primary Theme Color"
+msgstr "Color del tema principal"
+
+#: inc/options.php:360
+msgid "Pick a color for the primary buttons"
+msgstr "Elige un color para los botones principales"
+
+#: inc/options.php:354
+msgid "Primary Button Color"
+msgstr "Color de los botones principales"
+
+#: inc/widgets/service_widget.php:117
+msgid "Service Description"
+msgstr "Descripción del servicio"
+
+#: archive.php:82 category.php:48 comments.php:18 index.php:41 single.php:34
+msgid "%1$s Comment"
+msgid_plural "%1$s Comments"
+msgstr[0] "%1$s comentario"
+msgstr[1] "%1$s comentarios"
+
+#: inc/welcome/theme-welcome.php:144
+msgid "Import Demo"
+msgstr "Importar la demostración"
+
+#: inc/welcome/theme-welcome.php:142
+msgid "Getting Started"
+msgstr "Primeros pasos"
+
+#: inc/welcome/theme-support.php:14
+msgid "How to setup the Navigation & Menus"
+msgstr "Cómo configurar la navegación y los menús"
+
+#: inc/welcome/theme-support.php:13
+msgid "How to setup the Homepage"
+msgstr "Cómo configurar la página de inicio"
+
+#: inc/welcome/theme-support.php:12
+msgid "How to install & setup Integral"
+msgstr "Cómo instalar y configurar Integral"
+
+#: inc/welcome/theme-support.php:10
+msgid "Here is a list of helpful tutorials to get you started."
+msgstr "Aquí hay una lista de tutoriales útiles para comenzar."
+
+#: inc/welcome/theme-support.php:9
+msgid "Tutorials"
+msgstr "Tutoriales"
+
+#: inc/welcome/import-demo.php:5
+msgid "Important Note:"
+msgstr "Nota importante:"
+
+#: inc/widgets/testimonials_widget.php:16
+msgid "Integral - Testimonial Widget"
+msgstr "Integral: widget de testimonios"
+
+#: inc/widgets/testimonials_widget.php:15
+msgid "Add a testimonial to the homepage testimonials section."
+msgstr "Añade un testimonio a la sección de testimonios de la página de inicio."
+
+#: inc/widgets/service_widget.php:23
+msgid "Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla."
+msgstr "Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla."
+
+#: inc/widgets/service_widget.php:21
+msgid "fa-code"
+msgstr "fa-code"
+
+#: inc/widgets/service_widget.php:16
+msgid "Integral - Service Widget"
+msgstr "Integral: widget de servicio"
+
+#: inc/widgets/service_widget.php:15
+msgid "Add a service to the homepage services section."
+msgstr "Añade un servicio a la sección de servicios de la página de inicio."
+
+#: inc/widgets/projects_single_widget.php:16
+msgid "Integral - Single Project Widget"
+msgstr "Integral: widget de proyecto individual"
+
+#: inc/widgets/projects_single_widget.php:15
+msgid "Add a project to the homepage single projects section."
+msgstr "Añade un proyecto a la sección de proyectos individuales de la página de inicio."
+
+#: inc/widgets/our_team_widget.php:128
+msgid "Square images are recommended, otherwise the border around the image will appear distored. Example: 300px height by 300px width."
+msgstr "Se recomiendan imágenes cuadradas, de lo contrario el borde alrededor de la imagen aparecerá distorsionado. Ejemplo: 300px de altura por 300px de ancho."
+
+#: inc/widgets/our_team_widget.php:16
+msgid "Integral - Team Member Widget"
+msgstr "Integral: widget de miembro del equipo"
+
+#: inc/widgets/our_team_widget.php:15
+msgid "Add a team member to the homepage Our Team section."
+msgstr "Añade un miembro del equipo a la sección «Nuestro equipo» de la página de inicio."
+
+#: inc/widgets/our_clients_widget.php:16
+msgid "Integral - Clients Widget"
+msgstr "Integral: widget de clientes"
+
+#: inc/widgets/our_clients_widget.php:15
+msgid "Add a client logo to the homepage clients section."
+msgstr "Añade un logotipo de cliente a la sección de clientes de la página de inicio."
+
+#: inc/widgets/feature_widget.php:23
+msgid "Quis autem vel eum iure reprehen derit qui in ea voluptate velit esse quam nihil molestiae consequatur."
+msgstr "Quis autem vel eum iure reprehen derit qui in ea voluptate velit esse quam nihil molestiae consequatur."
+
+#: inc/widgets/feature_widget.php:21
+msgid "fa-paper-plane-o"
+msgstr "fa-paper-plane-o"
+
+#: inc/widgets/feature_widget.php:16
+msgid "Integral - Feature Widget"
+msgstr "Integral: widget de característica"
+
+#: inc/widgets/feature_widget.php:15
+msgid "Add a feature to the homepage features section."
+msgstr "Añade una característica a la sección de características de la página de inicio."
+
+#: inc/widgets/our_clients_widget.php:90
+msgid "Enter a link to the clients website."
+msgstr "Introduce un enlace a la web de los clientes."
+
+#: inc/widgets/our_clients_widget.php:88
+msgid "Client Link"
+msgstr "Enlace del cliente"
+
+#: inc/widgets/our_clients_widget.php:83
+msgid "Upload the clients logo."
+msgstr "Sube el logotipo del los clientes."
+
+#: inc/welcome/theme-welcome.php:133
+msgid "Welcome to Integral"
+msgstr "Bienvenido a Integral"
+
+#: inc/options.php:2095
+msgid "Extra 2"
+msgstr "Información adicional 2"
+
+#: inc/options.php:2082 inc/options.php:2097
+msgid "Use this section to display additional content on your homepage."
+msgstr "Usa esta sección para mostrar contenido adicional en tu página de inicio."
+
+#: inc/options.php:2080
+msgid "Extra 1"
+msgstr "Información adicional 1"
+
+#: searchform.php:11
+msgid "Search &hellip;"
+msgstr "Buscar&hellip;"
+
+#: searchform.php:9 searchform.php:13
+msgid "Search"
+msgstr "Buscar"
+
+#: inc/upgrade/class-customize.php:76
+msgid "Integral Pro"
+msgstr "Integral Pro"
+
+#: inc/welcome/theme-welcome.php:38
+msgid "Setup Integral"
+msgstr "Configurar Integral"
+
+#: inc/welcome/import-demo.php:5
+msgid "Make sure you have already installed the Theme Demo Importer plugin."
+msgstr "Asegúrate de que ya tienes instalado el plugin Theme Demo Importer."
+
+#: search.php:30
+msgid "by"
+msgstr "por"
+
+#: search.php:30
+msgid "Posted on"
+msgstr "Publicado el"
+
+#: 404.php:26
+msgid "The page you're trying to locate is missing or can't be found."
+msgstr "Falta la página que estás intentando localizar o no se ha podido encontrar."
+
+#: inc/welcome/getting-started.php:4
+msgid "Follow the steps below to setup Integral and begin customizing your website."
+msgstr "Sigue los pasos a continuación para configurar Integral y comenzar a personalizar tu sitio web."
+
+#: inc/welcome/getting-started.php:42
+msgid "UNLOCK Photo & Video Slider in Welcome Section"
+msgstr "DESBLOQUEA el carrusel de fotos y videos en la sección de bienvenida"
+
+#: inc/welcome/getting-started.php:43
+msgid "UNLOCK Content Animations"
+msgstr "DESBLOQUEA las animaciones de contenido"
+
+#: inc/welcome/import-demo.php:2 inc/welcome/import-demo.php:6
+msgid "Import Demo Content"
+msgstr "Importar el contenido de demostración"
+
+#: inc/tgm-plugin-activation.php:57 inc/welcome/getting-started.php:9
+msgid "Theme Demo Importer"
+msgstr "Importador de la demostración del tema"
+
+#: inc/welcome/getting-started.php:36
+msgid "THEMELY15"
+msgstr "THEMELY15"
+
+#: inc/welcome/getting-started.php:36
+msgid "Save 15% with coupon code"
+msgstr "Ahorra 15% con el código de cupón"
+
+#: inc/welcome/getting-started.php:26
+msgid "Click the button below to configure theme settings and start customizing your site."
+msgstr "Haz clic en el botón de abajo para configurar los ajustes del tema y comenzar a personalizar tu sitio."
+
+#: inc/welcome/getting-started.php:25
+msgid "Step 3 - Customize Your Website"
+msgstr "Paso 3: personaliza tu web"
+
+#: header.php:43
+msgid "Toggle navigation"
+msgstr "Alternar la navegación"
+
+#: inc/options.php:2029
+msgid "Youtube URL"
+msgstr "URL de YouTube"
+
+#: archive.php:36
+msgid "Author Archives"
+msgstr "Archivos por autor"
+
+#: inc/upgrade/class-customize.php:77
+msgid "View Pro Version"
+msgstr "Ver la versión Pro"
+
+#: inc/customizer.php:159
+msgid "Disable Button 2"
+msgstr "Desactivar el botón 2"
+
+#: inc/customizer.php:120 inc/customizer.php:160
+msgid "Check the box to disable this button."
+msgstr "Marca la casilla para desactivar este botón."
+
+#: inc/customizer.php:119
+msgid "Disable Button 1"
+msgstr "Desactivar el botón 1"
+
+#: inc/customizer.php:38
+msgid "This section controls the default header on the homepage of your website when the One-Page Template has NOT been setup. For instructions on how to setup the One-Page Template go to <a href=\"themes.php?page=integral-welcome#getting_started\">APPEARANCE > Setup Integral</a>."
+msgstr "Esta sección controla la cabecera por defecto de la página de inicio de tu web cuando NO ha sido configurada la plantilla de una página. Para instrucciones sobre cómo configurar la plantilla de una página, ve a «<a href=\"themes.php?page=integral-welcome#getting_started\">APARIENCIA > Configurar Integral</a>»."
+
+#: inc/options.php:568
+msgid "<p>Configure the post meta on all blog and post pages (index, categories and archives). Hide the post date, author, category and number of comments. Also enable/disable the author bio on posts.</p><p><i style=\"color:#f18500;\" class=\"el el-lock\"></i> <a style=\"color:#f18500;\" target=\"_blank\" href=\"https://www.themely.com/themes/integral/\">Upgrade</a> to unlock this feature.</p>"
+msgstr "<p>Configura los meta de las entradas en todas las páginas y entradas del blog (índice, categorías y archivos). Oculta la fecha de la entrada, el autor, la categoría y el número de comentarios. También, activa/desactiva la biografía del autor en las entradas.</p><p><i style=\"color:#f18500;\" class=\"el el-lock\"></i> <a style=\"color:#f18500;\" target=\"_blank\" href=\"https://www.themely.com/themes/integral/\">Actualiza</a> para desbloquear esta característica.</p>"
+
+#: inc/customizer.php:146
+msgid "Button 2 Link"
+msgstr "Enlace del botón 2"
+
+#: inc/customizer.php:128 sections/default.php:40 sections/default.php:44
+msgid "Download Now"
+msgstr "Descargar ahora"
+
+#: inc/customizer.php:106
+msgid "Button 1 Link"
+msgstr "Enlace del botón 1"
+
+#: inc/customizer.php:89 sections/default.php:30 sections/default.php:34
+msgid "View Features"
+msgstr "Ver características"
+
+#: inc/customizer.php:77
+msgid "A one page theme for professionals, agencies and businesses.<br />Create a stunning website in minutes."
+msgstr "Un tema de una página para profesionales, agencias y empresas.<br />Crea una web impresionante en cuestión de minutos."
+
+#: inc/customizer.php:65 sections/default.php:22
+msgid "Business Theme"
+msgstr "Tema de negocios"
+
+#: inc/customizer.php:53 sections/default.php:20
+msgid "Elegant"
+msgstr "Elegant"
+
+#: inc/customizer.php:47
+msgid "Background Image"
+msgstr "Imagen de fondo"
+
+#: inc/customizer.php:36
+msgid "Homepage Default Header"
+msgstr "Cabecera por defecto de la página de inicio"
+
+#: footer.php:37
+msgid "Made with &#10084; by %2$s"
+msgstr "Hecho con &#10084; por %2$s"
+
+#: footer.php:33
+msgid "Powered by %2$s"
+msgstr "Funciona con %2$s"
+
+#: footer.php:29
+msgid "&copy; 2016 All Rights Reserved"
+msgstr "&copy; 2016 Todos los derechos reservados"
+
+#: inc/options.php:2064
+msgid "Footer"
+msgstr "Pie de página"
+
+#: inc/options.php:1922
+msgid "Contact"
+msgstr "Contacto"
+
+#: inc/options.php:1833
+msgid "Newsletter"
+msgstr "Boletín"
+
+#: inc/options.php:1818
+msgid "Tweets"
+msgstr "Tuits"
+
+#: inc/options.php:1732
+msgid "Blog"
+msgstr "Blog"
+
+#: inc/options.php:1681
+msgid "Team"
+msgstr "Equipo"
+
+#: inc/options.php:1425
+msgid "Skills"
+msgstr "Habilidades"
+
+#: inc/options.php:1374
+msgid "About"
+msgstr "Acerca de"
+
+#: inc/options.php:1358
+msgid "Call to Action 2"
+msgstr "Llamada a la acción 2"
+
+#: inc/options.php:1224
+msgid "Call to Action 1"
+msgstr "Llamada a la acción 1"
+
+#: inc/options.php:1208
+msgid "Pricing Tables"
+msgstr "Tablas de precios"
+
+#: inc/options.php:1130
+msgid "Services"
+msgstr "Servicios"
+
+#: inc/options.php:1035
+msgid "Testimonials"
+msgstr "Testimonios"
+
+#: inc/options.php:1019
+msgid "Stats"
+msgstr "Estadísticas"
+
+#: inc/options.php:969
+msgid "Clients"
+msgstr "Clientes"
+
+#: inc/options.php:953
+msgid "Project Grid"
+msgstr "Cuadrícula de proyectos"
+
+#: inc/options.php:893
+msgid "Single Projects"
+msgstr "Proyectos individuales"
+
+#: inc/options.php:842
+msgid "Work"
+msgstr "Trabajo"
+
+#: inc/options.php:833 inc/options.php:884 inc/options.php:944
+#: inc/options.php:1010 inc/options.php:1121 inc/options.php:1199
+#: inc/options.php:1349 inc/options.php:1416 inc/options.php:1672
+#: inc/options.php:1723 inc/options.php:1795 inc/options.php:1914
+#: inc/options.php:2056
+msgid "Disable"
+msgstr "Desactivar"
+
+#: inc/options.php:779
+msgid "Features"
+msgstr "Características"
+
+#: inc/options.php:763
+msgid "Brands"
+msgstr "Marcas"
+
+#: inc/options.php:636
+msgid "Set the padding of the top and bottom of this section. You can also use this to increase or decrease the height of the welcome section."
+msgstr "Establece el relleno de la parte superior e inferior de esta sección. También puede utilizar esto para aumentar o disminuir la altura de la sección de bienvenida."
+
+#: inc/options.php:635
+msgid "Section Padding"
+msgstr "Relleno de la sección"
+
+#: inc/options.php:613
+msgid "Welcome"
+msgstr "Bienvenido"
+
+#: inc/options.php:575
+msgid "Header"
+msgstr "Cabecera"
+
+#: inc/options.php:1248
+msgid "Toggle off to disable the dark color and pattern overlay which appears over the background image."
+msgstr "Apágalo para desactivar el color oscuro y el patrón de superposición que aparece sobre la imagen de fondo."
+
+#: inc/options.php:693 inc/options.php:1274 inc/options.php:1882
+#: inc/options.php:1890 inc/options.php:2072
+msgid "Custom HTML allowed"
+msgstr "Se permite HTML personalizado"
+
+#. Template Name of the theme
+msgid "One-page Template (Home)"
+msgstr "Plantilla de una página (inicio)"
+
+#. Template Name of the theme
+msgid "Full-width Template"
+msgstr "Plantilla de ancho completo"
+
+#: search.php:42
+msgid "Posted under"
+msgstr "Publicado en"
+
+#: search.php:40
+msgid "Read more"
+msgstr "Leer más"
+
+#: search.php:22
+msgid "Search Results for: %s"
+msgstr "Resultados de la búsqueda de: %s"
+
+#: inc/options.php:2237
+msgid "This is a section created by adding a filter to the sections array. Can be used by child themes to add/remove sections from the options."
+msgstr "Esta es una sección creada añadiendo un filtro al array de las secciones. Pueden usarlo los temas hijo para añadir/quitar secciones de las opciones."
+
+#: inc/options.php:2236
+msgid "Section via hook"
+msgstr "Sección via gancho"
+
+#: inc/options.php:2113
+msgid "Enter custom Javascript or CSS code in your theme header and footer."
+msgstr "Introduce código JavaScript o CSS personalizado en la cabecera y pie de página de tu tema."
+
+#: inc/options.php:2110
+msgid "Custom Code"
+msgstr "Código personalizado"
+
+#: inc/options.php:2071
+msgid "Copyright Text"
+msgstr "Texto del copyright"
+
+#: inc/options.php:2057
+msgid "Toggle off to disable the contact section."
+msgstr "Apágalo para desactivar la sección de contacto."
+
+#: inc/options.php:2042
+msgid "Paste the shortcode in the field above."
+msgstr "Pega el shortcode en el campo de arriba."
+
+#: inc/options.php:2041
+msgid "Make sure you have installed the Contact Form 7 plugin and created a form. To create a form go to CONTACT > Add New. Then paste the shortcode in the field on the right."
+msgstr "Asegúrate de haber instalado el plugin Contact Form 7 y creado un formulario. Para crear un formulario, ve a «Contacto > Añadir nuevo». Luego, pega el shortcode en el campo de la derecha."
+
+#: inc/options.php:2040
+msgid "Contact Form 7 Shortcode"
+msgstr "Shortcode de Contact Form 7"
+
+#: inc/options.php:1979
+msgid "Location Address"
+msgstr "Dirección de ubicación"
+
+#: inc/options.php:1973
+msgid "Email Address"
+msgstr "Dirección de correo electrónico"
+
+#: inc/options.php:1967
+msgid "Phone Number"
+msgstr "Número de teléfono"
+
+#: inc/options.php:1955
+msgid "Contact Info"
+msgstr "Información de contacto"
+
+#: inc/options.php:1915
+msgid "Toggle off to disable the newsletter section."
+msgstr "Apágalo para desactivar la sección del boletín."
+
+#: inc/options.php:1889
+msgid "Paste form code here. Styling is supported for Mailchimp and ConstantContact. You can override form styling in the themes default stylesheet (styles.css) located under APPEARANCE > Editor."
+msgstr "Pega aquí el código del formulario. El estilo es compatible con Mailchimp y Constant Contact. Puedes anular el estilo del formulario en la hoja de estilos por defecto del tema (styles.css), ubicada en «APARIENCIA > Editor»."
+
+#: inc/options.php:1888
+msgid "Newsletter Form Code"
+msgstr "Código del formulario del boletín"
+
+#: inc/options.php:1841
+msgid "Select a color or upload an image. This will fill up the background of the Newsletter section."
+msgstr "Selecciona un color o sube una imagen. Esto rellenará el fondo de la sección del boletín"
+
+#: inc/options.php:1821
+msgid "Display your latest tweets"
+msgstr "Muestra tus últimos tuits"
+
+#: inc/options.php:1796
+msgid "Toggle off to disable the Blog members section."
+msgstr "Apágalo para desactivar la sección de miembros del blog."
+
+#: inc/options.php:1781
+msgid "Use this field to display content or links to your blog."
+msgstr "Usa este campo para mostrar contenido o enlaces a tu blog."
+
+#: inc/options.php:1780
+msgid "Content Area Below Posts"
+msgstr "Área de contenido debajo de las entradas"
+
+#: inc/options.php:1767
+msgid "Configure the posts layout."
+msgstr "Configura el diseño de las entradas."
+
+#: inc/options.php:1766
+msgid "Blog Posts Layout"
+msgstr "Diseño de las entradas del blog"
+
+#: inc/options.php:1759
+msgid "12 posts"
+msgstr "12 entradas"
+
+#: inc/options.php:1758
+msgid "11 posts"
+msgstr "11 entradas"
+
+#: inc/options.php:1757
+msgid "10 posts"
+msgstr "10 entradas"
+
+#: inc/options.php:1756
+msgid "9 posts"
+msgstr "9 entradas"
+
+#: inc/options.php:1755
+msgid "8 posts"
+msgstr "8 entradas"
+
+#: inc/options.php:1754
+msgid "7 posts"
+msgstr "7 entradas"
+
+#: inc/options.php:1753
+msgid "6 posts"
+msgstr "6 entradas"
+
+#: inc/options.php:1752
+msgid "5 posts"
+msgstr "5 entradas"
+
+#: inc/options.php:1751
+msgid "4 posts"
+msgstr "4 entradas"
+
+#: inc/options.php:1750
+msgid "3 posts"
+msgstr "3 entradas"
+
+#: inc/options.php:1749
+msgid "2 posts"
+msgstr "2 entradas"
+
+#: inc/options.php:1748
+msgid "1 post"
+msgstr "1 entradas"
+
+#: inc/options.php:1746
+msgid "Set the number of latest posts to display."
+msgstr "Establece el número de las últimas entradas a mostrar."
+
+#: inc/options.php:1745
+msgid "Blog Posts"
+msgstr "Entradas del blog"
+
+#: inc/options.php:1724
+msgid "Toggle off to disable the team members section."
+msgstr "Apágalo para desactivar la sección de miembros del equipo."
+
+#: inc/options.php:1701
+msgid "Configure the number of team members to appear in a row. Additional team members will automatically default to the next row."
+msgstr "Configura el número de miembros del equipo que aparecerán en una fila. Los miembros adicionales del equipo por defecto pasarán automáticamente a la siguiente fila."
+
+#: inc/options.php:1700
+msgid "Team Members Layout"
+msgstr "Diseño de los miembros del equipo"
+
+#: inc/options.php:1695
+msgid "Team members are created using Widgets. Go to APPEARANCE > Widgets and locate [Homepage Team Section]. Add widgets entitled [Integral - Team Member Widget] to this area to add team members. Add as many as you like."
+msgstr "Los miembros del equipo se crean usando widgets. Ve a «APARIENCIA > Widgets» y localiza la «Sección del equipo de la página de inicio». Añade a esta área los widgets llamados «Integral: widget de miembros del equipo» para añadir miembros del equipo. Añade tantos como quieras."
+
+#: inc/options.php:1694
+msgid "Add Team Members"
+msgstr "Añadir miembros del equipo"
+
+#: inc/options.php:1673
+msgid "Toggle off to disable the skills section."
+msgstr "Apágalo para desactivar la sección de habilidades."
+
+#: inc/options.php:1631
+msgid "Skill 6"
+msgstr "Habilidad 6"
+
+#: inc/options.php:1596
+msgid "Skill 5"
+msgstr "Habilidad 5"
+
+#: inc/options.php:1559
+msgid "Skill 4"
+msgstr "Habilidad 4"
+
+#: inc/options.php:1522
+msgid "Skill 3"
+msgstr "Habilidad 3"
+
+#: inc/options.php:1485
+msgid "Skill 2"
+msgstr "Habilidad 2"
+
+#: inc/options.php:1467 inc/options.php:1504 inc/options.php:1541
+#: inc/options.php:1578 inc/options.php:1614 inc/options.php:1649
+msgid "Skill Level"
+msgstr "Nivel de habilidad"
+
+#: inc/options.php:1461 inc/options.php:1498 inc/options.php:1535
+#: inc/options.php:1572 inc/options.php:1608 inc/options.php:1643
+msgid "Pick a color for the skill"
+msgstr "Elige un color para la habilidad"
+
+#: inc/options.php:1460 inc/options.php:1497 inc/options.php:1534
+#: inc/options.php:1571 inc/options.php:1607 inc/options.php:1642
+msgid "Skill Color"
+msgstr "Color de la habilidad"
+
+#: inc/options.php:1454 inc/options.php:1491 inc/options.php:1528
+#: inc/options.php:1565 inc/options.php:1602 inc/options.php:1637
+msgid "Skill Name"
+msgstr "Nombre de la habilidad"
+
+#: inc/options.php:1448
+msgid "Skill 1"
+msgstr "Habilidad 1"
+
+#: inc/options.php:1417
+msgid "Toggle off to disable the about section."
+msgstr "Apágalo para desactivar la sección «Acerca de»."
+
+#: inc/options.php:1361
+msgid "Create a call-to-action in horizontal layout."
+msgstr "Crea una llamada a la acción en un diseño horizontal."
+
+#: inc/options.php:1350
+msgid "Toggle off to disable the call-to-action section."
+msgstr "Apágalo para desactivar la sección de llamada a la acción."
+
+#: inc/options.php:1232
+msgid "Select a color or upload an image. This will fill up the background of the Call-to-Action section."
+msgstr "Selecciona un color o sube una imagen. Esto llenará el fondo de la sección de llamada a la acción."
+
+#: inc/options.php:1211
+msgid "Create unlimited pricing tables for products and services."
+msgstr "Crea tablas de precios ilimitadas de productos y servicios."
+
+#: inc/options.php:1200
+msgid "Toggle off to disable the services section."
+msgstr "Apágalo para desactivar la sección de servicios."
+
+#: inc/options.php:1184
+msgid "Specify the height and color of the icons. You can override styling for specific icons in the themes default stylesheet (styles.css) located under APPEARANCE > Editor. For color ideas visit <a target=\"_blank\" href=\"http://www.colourlovers.com/colors/\">ColourLovers</a>."
+msgstr "Especifica la altura y el color de los iconos. Puedes anular el estilo para iconos específicos en la hoja de estilos por defecto del tema (styles.css), ubicada en «APARIENCIA > Editor». Para ideas de color, visita <a target=\"_blank\" href=\"http://www.colourlovers.com/colors/\">ColourLovers</a>."
+
+#: inc/options.php:1183
+msgid "Service Icon Styles"
+msgstr "Estilos de los íconos de servicio"
+
+#: inc/options.php:1170
+msgid "Configure the number of services to appear in a row. Additional services will automatically default to the next row."
+msgstr "Configura el número de servicios que aparecerán en una fila. Los servicios adicionales por defecto pasarán automáticamente a la siguiente fila."
+
+#: inc/options.php:1169
+msgid "Services Layout"
+msgstr "Diseño de los servicios"
+
+#: inc/options.php:1164
+msgid "Services are created using Widgets. Go to APPEARANCE > Widgets and locate [Homepage Services Section]. Add widgets entitled [Integral - Service Widget] to this area to add services. Add as many as you like."
+msgstr "Los servicios se crean usando widgets. Ve a «APARIENCIA > Widgets» y localiza la «Sección de servicios de la página de inicio». Añade a esta área los widgets llamados «Integral: widget de servicios» para añadir servicios. Añade tantos como quieras."
+
+#: inc/options.php:1163
+msgid "Add Services"
+msgstr "Añadir servicios"
+
+#: inc/options.php:1122
+msgid "Toggle off to disable the testimonials section."
+msgstr "Apágalo para desactivar la sección de testimonios."
+
+#: inc/options.php:1103
+msgid "This is the amount of delay in seconds between each testimonial"
+msgstr "Esta es la cantidad de tiempo de retraso en segundos entre cada testimonio."
+
+#: inc/options.php:1097
+msgid "Toggle the autoplay function for the testimonials slider"
+msgstr "Activar la función de reproducción automática del carrusel de testimonios"
+
+#: inc/options.php:1090
+msgid "If there is more than one testimonial, the slider will be automatically enabled. Configure the slider settings below."
+msgstr "Si hay más de un testimonio, se activará automáticamente el carrusel. Configura a continuación los ajustes del carrusel."
+
+#: inc/options.php:1055
+msgid "Select a color or upload an image. This will fill up the background of the Testimonials section"
+msgstr "Selecciona un color o sube una imagen. Esto rellenará el fondo de la sección de testimonios"
+
+#: inc/options.php:1043
+msgid "Testimonials are created using Widgets. Go to APPEARANCE > Widgets and locate [Homepage Testimonials Section]. Add widgets entitled [Integral - Testimonial Widget] to this area to add testimonials. Add as many as you like."
+msgstr "Los testimonios se crean usando widgets. Ve a «APARIENCIA > Widgets» y localiza la «Sección de testimonios de la página de inicio». Añade a esta área los widgets llamados «Integral: widget de testimonios» para añadir testimonios. Añade tantos como quieras."
+
+#: inc/options.php:1042
+msgid "Add Testimonials"
+msgstr "Añadir testimonios"
+
+#: inc/options.php:1022
+msgid "Create stats with animated counters"
+msgstr "Crea estadísticas con contadores animados"
+
+#: inc/options.php:1011
+msgid "Toggle off to disable the clients section."
+msgstr "Apágalo para desactivar la sección de clientes"
+
+#: inc/options.php:989
+msgid "Configure the number of clients to appear in a row. Additional clients will automatically default to the next row."
+msgstr "Configura la cantidad de clientes que aparecerán en una fila. Los clientes adicionales por defecto pasarán automáticamente a la siguiente fila."
+
+#: inc/options.php:988
+msgid "Clients Layout"
+msgstr "Diseño de los clientes"
+
+#: inc/options.php:983
+msgid "Clients are created using Widgets. Go to APPEARANCE > Widgets and locate [Homepage Clients Section]. Add widgets entitled [Integral - Client Widget] to this area to add clients. Add as many as you like."
+msgstr "Los clientes se crean usando widgets. Ve a «APARIENCIA > Widgets» y localiza la «Sección de clientes de la página de inicio». Añade a esta área los widgets llamados «Integral: widget de cliente» para añadir clientes. Añade tantos como quieras."
+
+#: inc/options.php:982
+msgid "Add Clients"
+msgstr "Añadir clientes"
+
+#: inc/options.php:956
+msgid "Create a portfolio grid with unlimited projects (with popup lightbox)."
+msgstr "Crea una cuadrícula de porfolio con proyectos ilimitados (con una caja de luz emergente)."
+
+#: inc/options.php:945
+msgid "Toggle off to disable the single projects section."
+msgstr "Apágalo para desactivar la sección de proyectos individuales."
+
+#: inc/options.php:925
+msgid "This is the amount of delay in seconds between each slide"
+msgstr "Esta es la cantidad de tiempo de retraso en segundos entre cada diapositiva."
+
+#: inc/options.php:924 inc/options.php:1102
+msgid "Slide Delay"
+msgstr "Retraso de la diapositiva"
+
+#: inc/options.php:919
+msgid "Toggle the autoplay function for the slider"
+msgstr "Activa la función de reproducción automática del carrusel"
+
+#: inc/options.php:918 inc/options.php:1096
+msgid "Autoplay Slider"
+msgstr "Reproducción automática del carrusel"
+
+#: inc/options.php:912
+msgid "<p>If you upload more than one image per project, the slider will be automatically enabled. Configure the slider settings below.</p>"
+msgstr "<p>Si subes más de una imagen por proyecto, se activará automáticamente el carrusel. Configura a continuación los ajustes del carrusel.</p>"
+
+#: inc/options.php:907
+msgid "Projects are created using Widgets. Go to APPEARANCE > Widgets and locate [Homepage Projects Section]. Add widgets entitled [Integral - Single Project Widget] to this area to add projects. Add as many as you like."
+msgstr "Los proyectos se crean usando widgets. Ve a «APARIENCIA > Widgets» y localiza la «Sección de proyectos de la página de inicio». Añade a esta área los widgets llamados «Integral: widget de proyecto individual» para añadir proyectos. Añade tantos como quieras."
+
+#: inc/options.php:906
+msgid "Add Projects"
+msgstr "Añadir proyectos"
+
+#: inc/options.php:885
+msgid "Toggle off to disable the work section."
+msgstr "Apágalo para desactivar la sección de trabajos."
+
+#: inc/options.php:869 inc/options.php:1157 inc/options.php:1401
+#: inc/options.php:1439 inc/options.php:1949
+msgid "Select the page you want to pull content from to populate this section"
+msgstr "Selecciona la página de la que quieres extraer el contenido para rellenar esta sección"
+
+#: inc/options.php:868 inc/options.php:1156 inc/options.php:1272
+#: inc/options.php:1400 inc/options.php:1438 inc/options.php:1881
+#: inc/options.php:1948
+msgid "Content"
+msgstr "Contenido"
+
+#: inc/options.php:862 inc/options.php:1150 inc/options.php:1394
+#: inc/options.php:1942
+msgid "Subtitle"
+msgstr "Subtítulo"
+
+#: inc/options.php:855 inc/options.php:1143 inc/options.php:1387
+#: inc/options.php:1935
+msgid "Title Icon"
+msgstr "Ícono del título"
+
+#: inc/options.php:849 inc/options.php:900 inc/options.php:976
+#: inc/options.php:1048 inc/options.php:1137 inc/options.php:1266
+#: inc/options.php:1381 inc/options.php:1432 inc/options.php:1688
+#: inc/options.php:1739 inc/options.php:1875 inc/options.php:1929
+#: inc/options.php:1961
+msgid "Title"
+msgstr "Título"
+
+#: inc/options.php:834
+msgid "Toggle off to disable the features section."
+msgstr "Apágalo para desactivar la sección de características."
+
+#: inc/options.php:826 inc/options.php:877 inc/options.php:937
+#: inc/options.php:1004 inc/options.php:1115 inc/options.php:1192
+#: inc/options.php:1343 inc/options.php:1409 inc/options.php:1665
+#: inc/options.php:1716 inc/options.php:1789 inc/options.php:1908
+#: inc/options.php:2050
+msgid "Append a custom CSS class to this section."
+msgstr "Añade una clase CSS personalizada a esta sección."
+
+#: inc/options.php:825 inc/options.php:876 inc/options.php:936
+#: inc/options.php:1003 inc/options.php:1114 inc/options.php:1191
+#: inc/options.php:1342 inc/options.php:1408 inc/options.php:1664
+#: inc/options.php:1715 inc/options.php:1788 inc/options.php:1907
+#: inc/options.php:2049
+msgid "Custom Class"
+msgstr "Clase personalizada"
+
+#: inc/options.php:824 inc/options.php:875 inc/options.php:935
+#: inc/options.php:1002 inc/options.php:1113 inc/options.php:1190
+#: inc/options.php:1341 inc/options.php:1407 inc/options.php:1663
+#: inc/options.php:1714 inc/options.php:1779 inc/options.php:1787
+#: inc/options.php:1906 inc/options.php:2048
+msgid "Example: no-padding-bottom"
+msgstr "Ejemplo: no-padding-bottom"
+
+#: inc/options.php:818
+msgid "Specify the feature title font styles (color, size, type, height, weight & more)"
+msgstr "Especifica los estilos de la fuente del título de las características (color, tamaño, tipo, altura, peso y más)"
+
+#: inc/options.php:817
+msgid "Feature Titles"
+msgstr "Títulos de las características"
+
+#: inc/options.php:807
+msgid "Specify the color of the icons. You can override styling for specific icons in the themes default stylesheet (styles.css) located under APPEARANCE > Editor. For color ideas visit <a target=\"_blank\" href=\"http://www.colourlovers.com/colors/\">ColourLovers</a>. To set the size of the icons <a style=\"color:#f18500;\" target=\"_blank\" href=\"https://www.themely.com/themes/integral/\">upgrade to Integral PRO</a>."
+msgstr "Especifica el color de los iconos. Puedes anular el estilo de iconos específicos en la hoja de estilos por defecto del tema (styles.css), ubicada en «APARIENCIA > Editor». Para ideas de color, visita <a target=\"_blank\" href=\"http://www.colourlovers.com/colors/\">ColourLovers</a>. Para establecer el tamaño de los iconos, <a style=\"color:#f18500;\" target=\"_blank\" href=\"https://www.themely.com/themes/integral/\">actualiza a Integral PRO</a>."
+
+#: inc/options.php:806
+msgid "Feature Icon Styles"
+msgstr "Estilos del ícono de característica"
+
+#: inc/options.php:799 inc/options.php:995 inc/options.php:1176
+#: inc/options.php:1707 inc/options.php:1772
+msgid "1 per row (1 column)"
+msgstr "1 por fila (1 columna)"
+
+#: inc/options.php:798 inc/options.php:994 inc/options.php:1175
+#: inc/options.php:1706 inc/options.php:1771
+msgid "2 per row (2 columns)"
+msgstr "2 por fila (2 columnas)"
+
+#: inc/options.php:797 inc/options.php:993 inc/options.php:1174
+#: inc/options.php:1705 inc/options.php:1770
+msgid "3 per row (3 columns)"
+msgstr "3 por fila (3 columnas)"
+
+#: inc/options.php:796 inc/options.php:992 inc/options.php:1173
+#: inc/options.php:1704 inc/options.php:1769
+msgid "4 per row (4 columns)"
+msgstr "4 por fila (4 columnas)"
+
+#: inc/options.php:795 inc/options.php:991 inc/options.php:1172
+#: inc/options.php:1703
+msgid "6 per row (6 columns)"
+msgstr "6 por fila (6 columnas)"
+
+#: inc/options.php:793
+msgid "Configure the number of features to appear in a row. Additional features will automatically default to the next row."
+msgstr "Configura el número de características que aparecerán en una fila. Las características adicionales por defecto pasarán automáticamente a la siguiente fila."
+
+#: inc/options.php:792
+msgid "Features Layout"
+msgstr "Diseño de las características"
+
+#: inc/options.php:787
+msgid "Features are created using Widgets. Go to APPEARANCE > Widgets and locate [Homepage Features Section]. Add widgets entitled [Integral - Feature Widget] to this area to add features. Add as many as you like."
+msgstr "Las características se crean usando widgets. Ve a «APARIENCIA > Widgets» y localiza la «Sección de características de la página de inicio». Añade a esta área los widgets llamados «Integral: widget de característica» para añadir características. Añade tantos como quieras."
+
+#: inc/options.php:786
+msgid "Add Features"
+msgstr "Añadir características"
+
+#: inc/options.php:771 inc/options.php:1027 inc/options.php:1216
+#: inc/options.php:1366 inc/options.php:1811 inc/options.php:1826
+#: inc/options.php:2088 inc/options.php:2103 inc/options.php:2118
+msgid "<p><i style=\"color:#f18500;\" class=\"el el-lock\"></i> <a style=\"color:#f18500;\" target=\"_blank\" href=\"https://www.themely.com/themes/integral/\">Upgrade</a> to unlock this section.</p>"
+msgstr "<p><i style=\"color:#f18500;\" class=\"el el-lock\"></i> <a style=\"color:#f18500;\" target=\"_blank\" href=\"https://www.themely.com/themes/integral/\">Actualiza</a> para desbloquear esta sección.</p>"
+
+#: inc/options.php:766
+msgid "Upload images/logos of brands"
+msgstr "Sube las imágenes o logotipos de las marcas"
+
+#: inc/options.php:749 inc/options.php:1329
+msgid "Button 2 URL"
+msgstr "URL del botón 2"
+
+#: inc/customizer.php:133 inc/options.php:738 inc/options.php:1317
+msgid "Button 2 Text"
+msgstr "Texto del botón 2"
+
+#: inc/options.php:732 inc/options.php:1311
+msgid "Toggle Button 2"
+msgstr "Activar el botón 2"
+
+#: inc/options.php:719 inc/options.php:1298
+msgid "Button 1 URL"
+msgstr "URL del botón 1"
+
+#: inc/customizer.php:94 inc/options.php:707 inc/options.php:1286
+msgid "Button 1 Text"
+msgstr "Texto del botón 1"
+
+#: inc/options.php:702 inc/options.php:733
+msgid "Toggle off to disable the button"
+msgstr "Apágalo para desactivar el botón"
+
+#: inc/options.php:701 inc/options.php:1280
+msgid "Toggle Button 1"
+msgstr "Activar el botón 1"
+
+#: inc/options.php:692
+msgid "Tagline for the hero section"
+msgstr "Descripción corta de la sección a pantalla completa"
+
+#: inc/options.php:691
+msgid "Tagline"
+msgstr "Descripción corta"
+
+#: inc/options.php:684
+msgid "Title Line 2 Typography"
+msgstr "Tipografía de la línea de título 2"
+
+#: inc/options.php:677
+msgid "2nd line of the title"
+msgstr "Segunda línea del título"
+
+#: inc/customizer.php:70 inc/options.php:676
+msgid "Title Line 2"
+msgstr "Línea de título 2"
+
+#: inc/options.php:670 inc/options.php:685
+msgid "Change the font style (color, size, type, height, weight, styles & more)"
+msgstr "Cambia el estilo de la fuente (color, tamaño, tipo, altura, peso, estilos y más)"
+
+#: inc/options.php:669
+msgid "Title Line 1 Typography"
+msgstr "Tipografía de la línea de título 1"
+
+#: inc/options.php:663
+msgid "1st line of the title"
+msgstr "Primera línea del título"
+
+#: inc/customizer.php:58 inc/customizer.php:82 inc/options.php:662
+msgid "Title Line 1"
+msgstr "Línea de título 1"
+
+#: inc/options.php:657 inc/options.php:1084 inc/options.php:1261
+#: inc/options.php:1870
+msgid "Toggle off to disable the parallax effect"
+msgstr "Apágalo para desactivar el efecto de paralaje"
+
+#: inc/options.php:656 inc/options.php:1083 inc/options.php:1260
+#: inc/options.php:1869
+msgid "Parallax Effect"
+msgstr "Efecto de paralaje"
+
+#: inc/options.php:650 inc/options.php:1077 inc/options.php:1254
+#: inc/options.php:1863
+msgid "To change the color and opacity of the dark overlay which covers the background image, edit class <code>.blacklayer</code> on line 88 of the style.css file."
+msgstr "Para cambiar el color y la opacidad de la superposición oscura que cubre la imagen de fondo, edita la clase <code>.blacklayer</code> en la línea 88 del archivo «style.css»."
+
+#: inc/options.php:644 inc/options.php:1071 inc/options.php:1857
+msgid "Toggle off to disable the dark overlay and pattern which appears over the background image."
+msgstr "Apágalo para desactivar la superposición y el patrón oscuro que aparece sobre la imagen de fondo."
+
+#: inc/options.php:643 inc/options.php:1070 inc/options.php:1247
+#: inc/options.php:1856
+msgid "Background Overlay"
+msgstr "Superposición del fondo"
+
+#: inc/options.php:622 inc/options.php:1056 inc/options.php:1233
+#: inc/options.php:1842
+msgid "Preferred image size of minimum 1600px wide"
+msgstr "El tamaño de imagen recomendado es de al menos 1600px de ancho"
+
+#: inc/options.php:621
+msgid "Change the background image or select a color. This will fill up the background of the welcome section."
+msgstr "Cambia la imagen de fondo o selecciona un color. Esto llenará el fondo de la sección de bienvenida."
+
+#: inc/options.php:620 inc/options.php:1054 inc/options.php:1231
+#: inc/options.php:1840
+msgid "Background"
+msgstr "Fondo"
+
+#: inc/options.php:604
+msgid "Change the site name font styles. Only displayed if you have disabled the image logo above."
+msgstr "Cambia los estilos de la fuente del nombre del sitio. Solo se muestra si has desactivado el logotipo de la imagen de arriba."
+
+#: inc/options.php:603
+msgid "Site Name"
+msgstr "Nombre del sitio"
+
+#: inc/options.php:598
+msgid "To upload a logo to replace the default site name and description in the header, go to APPEARANCE > Customize and select the [Site Identity] tab. Or <a href=\"customize.php\">click here</a> and then select the [Site Identity] tab."
+msgstr "Para subir un logotipo que reemplace el nombre y la descripción por defecto del sitio en la cabecera, ve a «APARIENCIA > Personalizar» y selecciona la pestaña «Identidad del sitio». O <a href=\"customize.php\">haz clic aquí</a> y, después, selecciona la pestaña «Identidad del sitio»."
+
+#: inc/options.php:591
+msgid "Set the padding of the top of the menu. This is generally used when you upload a large logo which increases the height of the header area. This will allow you to vertically center the top menu."
+msgstr "Establece el relleno de la parte superior del menú. Esto se usa generalmente cuando subes un logotipo grande que aumenta la altura del área de la cabecera. Esto te permitirá centrar verticalmente el menú superior."
+
+#: inc/options.php:590
+msgid "Top Menu Padding"
+msgstr "Relleno del menú superior"
+
+#: inc/options.php:584
+msgid "Toggle off to disable the menu sticking to the top of the screen when scrolling down."
+msgstr "Apágalo para desactivar el menú que se fija en la parte superior de la pantalla cuando se hace scroll hacia abajo."
+
+#: inc/options.php:583
+msgid "Toggle Sticky Menu"
+msgstr "Activar el menú fijo"
+
+#: inc/options.php:565
+msgid "Blog/Post Settings"
+msgstr "Ajustes del blog y las entradas"
+
+#: inc/options.php:535
+msgid "Organize how you want the layout to appear on the homepage. Drag and drop to the right column in order to disable a particular section."
+msgstr "Organiza cómo quieres que aparezca el diseño en la página de inicio. Arrastra y suelta en la columna de la derecha para desactivar una sección en particular."
+
+#: inc/options.php:534
+msgid "Homepage Layout Manager"
+msgstr "Gestor de diseño de la página de inicio"
+
+#: inc/options.php:528
+msgid "<p>Organize how you want the layout to appear on the homepage. Drag and drop in the desired order or drag to the right column to disable a section.</p><p><i style=\"color:#f18500;\" class=\"el el-lock\"></i> <a style=\"color:#f18500;\" target=\"_blank\" href=\"https://www.themely.com/themes/integral/\">Upgrade</a> to unlock this feature.</p>"
+msgstr "<p>Organiza cómo quieres que aparezca el diseño en la página de inicio. Arrastra y suelta en el orden deseado o arrastra a la columna derecha para desactivar una sección.</p><p><i style=\"color:#f18500;\" class=\"el el-lock\"></i> <a style=\"color:#f18500;\" target=\"_blank\" href=\"https://www.themely.com/themes/integral/\">Actualiza</a> para desbloquear esta característica.</p>"
+
+#: inc/options.php:525
+msgid "Homepage Layout"
+msgstr "Diseño de la página de inicio"
+
+#: inc/options.php:511
+msgid "Change the body font color of the dark sections (Services, Pricing Tables & Contact). Default is #888888. Default is #ffffff."
+msgstr "Cambia el color de la fuente del cuerpo de las secciones oscuras (servicios, tablas de precios y contacto). El valor por defecto es #888888. El valor por defecto es #ffffff."
+
+#: inc/options.php:507
+msgid "Dark Section Body Font Color"
+msgstr "Color de la fuente del cuerpo de la sección oscura"
+
+#: inc/options.php:500
+msgid "Change the font color of the subtitles in the dark sections (service names, pricing table titles & contact info title). Default is #ffffff."
+msgstr "Cambia el color de la fuente de los subtítulos en las secciones oscuras (nombres de servicios, títulos de la tabla de precios y título de la información de contacto). El valor por defecto es #ffffff."
+
+#: inc/options.php:496
+msgid "Dark Section H3 Subtitle Font Color"
+msgstr "Color de la fuente del subtítulo H3 de la sección oscura"
+
+#: inc/options.php:490
+msgid "Change the font color of the H2 small titles in the dark sections (Pricing Tables). Default is #ffffff."
+msgstr "Cambia el color de fuente de los títulos pequeños H2 en las secciones oscuras (tablas de precios). El valor por defecto es #ffffff."
+
+#: inc/options.php:486
+msgid "Dark Section H2 Small Title Font Color"
+msgstr "Color de la fuente del título pequeño H2 de la sección oscura"
+
+#: inc/options.php:480
+msgid "Change the font color of the H2 big titles in the dark sections (Services & Contact). Default is #ffffff."
+msgstr "Cambia el color de la fuente de los títulos grandes H2 en las secciones oscuras (servicios y contacto). El valor por defecto es #ffffff."
+
+#: inc/options.php:476
+msgid "Dark Section H2 Big Title Font Color"
+msgstr "Color de la fuente del título grande H2 de la sección oscura"
+
+#: inc/options.php:470
+msgid "Change the background color of the dark sections (Services, Pricing Tables & Contact). Default is #1c1c1c."
+msgstr "Cambia el color de fondo de las secciones oscuras (servicios, tablas de precios y contacto). El valor por defecto es #1c1c1c."
+
+#: inc/options.php:466
+msgid "Dark Section Background Color"
+msgstr "Color de fondo de la sección oscura"
+
+#: inc/options.php:460
+msgid "Dark Section Colors"
+msgstr "Colores de la sección oscura"
+
+#: inc/options.php:449
+msgid "Change the body font color of the lite sections (Features, Work, Projects, Clients, About, Skills & Team). Default is #333333."
+msgstr "Cambia el color de la fuente del cuerpo de las secciones claras (características, trabajo, proyectos, clientes, acerca de, habilidades y equipo). El valor por defecto es #333333."
+
+#: inc/options.php:445
+msgid "Lite Section Body Font Color"
+msgstr "Color de la fuente del cuerpo de la sección clara"
+
+#: inc/options.php:439
+msgid "Change the font color of the subtitles in the lite sections (feature titles, project titles, service titles & team member names). Default is #13151a."
+msgstr "Cambia el color de fuente de los subtítulos en las secciones claras (títulos de las características, títulos de los proyectos, títulos de los servicios y los nombres de los miembros del equipo). El valor por defecto es #13151a."
+
+#: inc/options.php:435
+msgid "Lite Section H3 Subtitle Font Color"
+msgstr "Color de la fuente del subtítulo H3 de la sección clara"
+
+#: inc/options.php:429
+msgid "Change the font color of the small titles in the lite sections (Projects Single, Projects Grid, Our Clients, Skills & Our Team). Default is #13151a."
+msgstr "Cambia el color de la fuente de los títulos pequeños en las secciones claras (proyectos individuales, cuadrícula de proyectos, nuestros clientes, habilidades y nuestro equipo). El valor por defecto es #13151a."
+
+#: inc/options.php:425
+msgid "Lite Section H2 Small Title Font Color"
+msgstr "Color de la fuente del título pequeño H2 de la sección clara"
+
+#: inc/options.php:419
+msgid "Change the font color of the big titles in the lite sections (Work & About). Default is #13151a."
+msgstr "Cambia el color de la fuente de los títulos grandes en las secciones claras (trabajos y acerca de). El valor por defecto es #13151a."
+
+#: inc/options.php:415
+msgid "Lite Section H2 Big Title Font Color"
+msgstr "Color de la fuente del título grande H2 de la sección clara"
+
+#: inc/options.php:410 inc/options.php:420 inc/options.php:430
+#: inc/options.php:440 inc/options.php:450 inc/options.php:471
+#: inc/options.php:481 inc/options.php:491 inc/options.php:501
+#: inc/options.php:503 inc/options.php:512 inc/options.php:585
+#: inc/options.php:592 inc/options.php:605 inc/options.php:637
+#: inc/options.php:671 inc/options.php:686 inc/options.php:819
+#: inc/options.php:1185
+msgid "<i style=\"color:#f18500;\" class=\"el el-lock\"></i> <a style=\"color:#f18500;\" target=\"_blank\" href=\"https://www.themely.com/themes/integral/\">Upgrade</a> to unlock this feature."
+msgstr "<i style=\"color:#f18500;\" class=\"el el-lock\"></i> <a style=\"color:#f18500;\" target=\"_blank\" href=\"https://www.themely.com/themes/integral/\">Actualiza</a> para desbloquear esta característica."
+
+#: inc/options.php:409
+msgid "Change the background color of the lite sections (Features, Work, Projects, Clients, About, Skills & Team). Default is #ffffff."
+msgstr "Cambia el color del fondo de las secciones claras (características, trabajo, proyectos, clientes, acerca de, habilidades y equipo). El valor por defecto es #ffffff."
+
+#: inc/options.php:405
+msgid "Lite Section Background Color"
+msgstr "Color de fondo de la sección clara"
+
+#: inc/options.php:399
+msgid "Lite Section Colors"
+msgstr "Colores de la sección clara"
+
+#: inc/options.php:393
+msgid "Change the background color of the footer (where copyright information is located). Default is #111111."
+msgstr "Cambia el color de fondo del pie de página (donde está ubicada la información del copyright). Por defecto es: #111111."
+
+#: inc/options.php:389
+msgid "Footer Background Color"
+msgstr "Color de fondo de pie de página"
+
+#: inc/options.php:383
+msgid "Change the background color of the header where the logo and top navigation is located. Default is #ffffff."
+msgstr "Cambia el color de fondo de la cabecera, donde están ubicados el logotipo y la navegación superior. Por defecto es: #ffffff."
+
+#: inc/options.php:379
+msgid "Header Background Color"
+msgstr "Color del fondo de la cabecera"
+
+#: inc/options.php:346
+msgid "Colors"
+msgstr "Colores"
+
+#: inc/options.php:338 inc/options.php:961
+msgid "<p><i style=\"color:#f18500;\" class=\"el el-lock\"></i> <a style=\"color:#f18500;\" target=\"_blank\" href=\"https://www.themely.com/themes/integral/\">Upgrade</a> to unlock this feature.</p>"
+msgstr "<p><i style=\"color:#f18500;\" class=\"el el-lock\"></i> <a style=\"color:#f18500;\" target=\"_blank\" href=\"https://www.themely.com/themes/integral/\">Actualiza</a> para desbloquear esta característica.</p>"
+
+#: inc/options.php:332
+msgid "Change the font properties for the body, titles and top menu."
+msgstr "Cambia las propiedades de la fuente para el cuerpo, los títulos y el menú superior."
+
+#: inc/options.php:329
+msgid "Typography"
+msgstr "Tipografía"
+
+#: inc/options.php:322
+msgid "General theme settings"
+msgstr "Ajustes generales del tema"
+
+#: inc/options.php:320
+msgid "General Settings"
+msgstr "Ajustes generales"
+
+#: inc/options.php:301
+msgid "This is the sidebar content, HTML is allowed."
+msgstr "Este es el contenido de la barra lateral. Se permite HTML."
+
+#: inc/options.php:293
+msgid "Theme Information 2"
+msgstr "Información 2 del tema"
+
+#: inc/options.php:289 inc/options.php:294
+msgid "This is the tab content, HTML is allowed."
+msgstr "Este es el contenido de la pestaña. Se permite HTML."
+
+#: inc/options.php:288
+msgid "Theme Information 1"
+msgstr "Información 2 del tema"
+
+#: inc/options.php:272
+msgid "This text is displayed above the options panel. It isn't required, but more info is always better! The intro_text field accepts all HTML."
+msgstr "Este texto se muestra encima del panel de opciones. No es necesario, pero ¡siempre es mejor dar más información! El campo `intro_text` admite HTML."
+
+#: inc/options.php:269
+msgid "<i style=\"color:#f18500;\" class=\"el el-lock\"></i> <a href=\\\"https://www.themely.com/themes/integral/\\\" target=\\\"_blank=\\\" style=\\\"color:#f18500;\\\">Upgrade to Integral PRO</a> to unlock all theme features."
+msgstr "<i style=\"color:#f18500;\" class=\"el el-lock\"></i> <a href=\\\"https://www.themely.com/themes/integral/\\\" target=\\\"_blank=\\\" style=\\\"color:#f18500;\\\">Actualiza a Integral PRO</a> para desbloquear todas las características del tema."
+
+#: inc/options.php:255
+msgid "Follow us on Twitter"
+msgstr "Síguenos en Twitter"
+
+#: inc/options.php:247
+msgid "Visit our website"
+msgstr "Visita nuestra web"
+
+#: inc/options.php:235
+msgid "Support"
+msgstr "Apoyo"
+
+#: inc/options.php:230
+msgid "Documentation"
+msgstr "Documentación"
+
+#: inc/widgets/testimonials_widget.php:87
+msgid "Testimonial Text"
+msgstr "Texto de la recomendación"
+
+#: inc/widgets/testimonials_widget.php:83
+msgid "Author"
+msgstr "Autor"
+
+#: inc/widgets/service_widget.php:107
+msgid "Service Image"
+msgstr "Imagen del servicio"
+
+#: inc/widgets/service_widget.php:102
+msgid "Service Icon Class"
+msgstr "Clase del ícono del servicio"
+
+#: inc/widgets/service_widget.php:20 inc/widgets/service_widget.php:98
+msgid "Service Title"
+msgstr "Título del servicio"
+
+#: inc/widgets/projects_single_widget.php:160
+msgid "Project URL"
+msgstr "URL del proyecto"
+
+#: inc/widgets/projects_single_widget.php:156
+msgid "Project Skills"
+msgstr "Habilidades del proyecto"
+
+#: inc/widgets/projects_single_widget.php:152
+msgid "Project Client"
+msgstr "Cliente del proyecto"
+
+#: inc/widgets/projects_single_widget.php:148
+msgid "Project Date"
+msgstr "Fecha del proyecto"
+
+#: inc/widgets/projects_single_widget.php:144
+msgid "Project Description"
+msgstr "Descripción del proyecto"
+
+#: inc/widgets/projects_single_widget.php:139
+msgid "Add/Edit Gallery"
+msgstr "Añadir o editar una galería"
+
+#: inc/widgets/projects_single_widget.php:126
+msgid "Create a new gallery by selecting existing or uploading new images using the WordPress native uploader"
+msgstr "Crea una nueva galería seleccionando imágenes existentes o subiendo nuevas imágenes usando la subida nativa de WordPress"
+
+#: inc/widgets/projects_single_widget.php:125
+msgid "Project Images/Gallery"
+msgstr "Galería o imágenes del proyecto"
+
+#: inc/options.php:2023 inc/widgets/our_team_widget.php:170
+msgid "Instagram URL"
+msgstr "URL de Instagram"
+
+#: inc/options.php:2017 inc/widgets/our_team_widget.php:166
+msgid "Linkedin URL"
+msgstr "URL de Linkedin"
+
+#: inc/options.php:2011 inc/widgets/our_team_widget.php:162
+msgid "Behance URL"
+msgstr "URL de Behance"
+
+#: inc/options.php:2005 inc/widgets/our_team_widget.php:158
+msgid "Github URL"
+msgstr "URL de GitHub"
+
+#: inc/options.php:1999 inc/widgets/our_team_widget.php:154
+msgid "Google+ URL"
+msgstr "URL de Google+"
+
+#: inc/options.php:1993 inc/widgets/our_team_widget.php:150
+msgid "Twitter URL"
+msgstr "URL de Twitter"
+
+#: inc/options.php:1987 inc/widgets/our_team_widget.php:146
+msgid "Facebook URL"
+msgstr "URL de Facebook"
+
+#: inc/widgets/our_team_widget.php:141
+msgid "Short Bio"
+msgstr "Biografía corta"
+
+#: inc/widgets/our_team_widget.php:137
+msgid "Position"
+msgstr "Posición"
+
+#: inc/widgets/our_team_widget.php:127
+msgid "Profile Image"
+msgstr "Imagen del perfil"
+
+#: inc/widgets/our_clients_widget.php:81
+msgid "Client Logo"
+msgstr "Logotipo del cliente"
+
+#: inc/widgets/feature_widget.php:121 inc/widgets/our_team_widget.php:143
+#: inc/widgets/service_widget.php:119 inc/widgets/testimonials_widget.php:89
+msgid "No limit on the amount of text and HTML is allowed."
+msgstr "La cantidad de texto y HTML no está limitada."
+
+#: inc/widgets/feature_widget.php:119
+msgid "Feature Description"
+msgstr "Descripción de la característica"
+
+#: inc/widgets/feature_widget.php:113 inc/widgets/our_clients_widget.php:85
+#: inc/widgets/our_team_widget.php:131
+#: inc/widgets/projects_single_widget.php:140
+#: inc/widgets/service_widget.php:111
+msgid "Clear"
+msgstr "Vaciar"
+
+#: inc/widgets/feature_widget.php:112 inc/widgets/our_clients_widget.php:84
+#: inc/widgets/our_team_widget.php:130 inc/widgets/service_widget.php:110
+msgid "Upload"
+msgstr "Subir"
+
+#: inc/widgets/feature_widget.php:110 inc/widgets/service_widget.php:108
+msgid "Or instead of using an icon you can upload an image."
+msgstr "O en lugar de usar un ícono, puedes subir una imagen."
+
+#: inc/widgets/feature_widget.php:109
+msgid "Feature Image"
+msgstr "Imagen destacada"
+
+#: inc/widgets/feature_widget.php:106 inc/widgets/service_widget.php:104
+msgid "FontAwesome Icons list"
+msgstr "Lista de íconos de FontAwesome"
+
+#: inc/widgets/feature_widget.php:104
+msgid "Feature Icon Class"
+msgstr "Clase del ícono de la característica"
+
+#: inc/widgets/feature_widget.php:20 inc/widgets/feature_widget.php:100
+msgid "Feature Title"
+msgstr "Título de la característica"
+
+#: inc/welcome/getting-started.php:62
+msgid "UPGRADE NOW"
+msgstr "ACTUALIZAR AHORA"
+
+#: inc/welcome/getting-started.php:59
+msgid "Regular theme updates"
+msgstr "Actualizaciones periódicas del tema"
+
+#: inc/welcome/getting-started.php:58
+msgid "Priority support"
+msgstr "Soporte prioritario"
+
+#: inc/welcome/getting-started.php:57
+msgid "No restrictions!"
+msgstr "¡Sin restricciones!"
+
+#: inc/welcome/getting-started.php:56
+msgid "FREE Child Theme"
+msgstr "Tema hijo GRATIS"
+
+#: inc/welcome/getting-started.php:55
+msgid "ENHANCED Options Panel"
+msgstr "MEJORA el panel de opciones"
+
+#: inc/welcome/getting-started.php:54
+msgid "MORE Custom Widgets"
+msgstr "MÁS widgets personalizados"
+
+#: inc/welcome/getting-started.php:53
+msgid "MORE Widget Areas"
+msgstr "MÁS áreas de widgets"
+
+#: inc/welcome/getting-started.php:52
+msgid "MORE Theme Customization Options"
+msgstr "MÁS opciones de personalización del tema"
+
+#: inc/welcome/getting-started.php:51
+msgid "UNLOCK Social sharing on posts (Facebook, Twitter, Linkedin, Reddit, etc)"
+msgstr "DESBLOQUEA la compartición social en las entradas (Facebook, Twitter, LinkedIn, Reddit, etc.)"
+
+#: inc/welcome/getting-started.php:49
+msgid "UNLOCK Tweets Section"
+msgstr "DESBLOQUEA la sección de tuits"
+
+#: inc/welcome/getting-started.php:48
+msgid "UNLOCK Stats Section"
+msgstr "DESBLOQUEA la sección de estadísticas"
+
+#: inc/welcome/getting-started.php:47
+msgid "UNLOCK Call To Action 2 Section"
+msgstr "DESBLOQUEA la sección 2 de llamada a la acción"
+
+#: inc/welcome/getting-started.php:46
+msgid "UNLOCK Pricing Tables Section"
+msgstr "DESBLOQUEA la sección de tablas de precios"
+
+#: inc/welcome/getting-started.php:45
+msgid "UNLOCK Projects Grid Section (with lightbox popup)"
+msgstr "DESBLOQUEA la sección de cuadrícula de proyectos (con caja de luz emergente)"
+
+#: inc/welcome/getting-started.php:44
+msgid "UNLOCK Brands Section"
+msgstr "DESBLOQUEA la sección de marcas"
+
+#: inc/welcome/getting-started.php:41
+msgid "Easily change size and color of icons (no coding required)"
+msgstr "Cambia fácilmente el tamaño y el color de los íconos (no se necesita escribir código)"
+
+#: inc/welcome/getting-started.php:40
+msgid "Change order of homepage sections (drag & drop)"
+msgstr "Cambia el orden de las secciones de la página de inicio (arrastrar y soltar)"
+
+#: inc/welcome/getting-started.php:39
+msgid "Easily change font type, color and size for all sections (no coding required)"
+msgstr "Cambia fácilmente el tipo de fuente, el color y el tamaño de todas las secciones (no se necesita escribir código)"
+
+#: inc/welcome/getting-started.php:35
+msgid "View the live demo"
+msgstr "Ver la demostración en vivo"
+
+#: inc/welcome/getting-started.php:35
+msgid "Unlock all theme features!"
+msgstr "¡Desbloquea todas las características!"
+
+#: inc/welcome/getting-started.php:34
+msgid "Upgrade to Integral PRO!"
+msgstr "¡Actualiza a Integral PRO!"
+
+#: inc/welcome/theme-support.php:8
+msgid "Create a support ticket"
+msgstr "Crea un ticket de soporte"
+
+#: inc/welcome/theme-support.php:6
+msgid "Theme Documentation"
+msgstr "Documentación del tema"
+
+#: inc/welcome/theme-support.php:5
+msgid "Support Forum"
+msgstr "Foro de soporte"
+
+#: inc/welcome/theme-support.php:3
+msgid "Need help? Support for Integral is conducted through our support ticket system."
+msgstr "¿Necesitas ayuda? El soporte de Integral se brinda a través de nuestro sistema de tickets de soporte."
+
+#: inc/welcome/theme-support.php:2
+msgid "Theme Support"
+msgstr "Soporte del tema"
+
+#: inc/options.php:76 inc/options.php:77 inc/welcome/getting-started.php:28
+msgid "Integral Options"
+msgstr "Opciones de Integral"
+
+#: inc/welcome/import-demo.php:4
+msgid "Live demo:"
+msgstr "Demostración en vivo:"
+
+#: inc/welcome/getting-started.php:22
+msgid "Homepage Configuration Instructions (with video)"
+msgstr "Instrucciones de configuración de la página de inicio (con video)"
+
+#: inc/welcome/getting-started.php:20
+msgid "Select the page you just assigned the One-page Template to as \"Front page\" and then choose another page as \"Posts page\" to serve your blog posts."
+msgstr "Selecciona la página que has asignado a la plantilla de una página como «Portada» y, después, elige otra página como «Página de entradas» para servir tus entradas del blog."
+
+#: inc/welcome/getting-started.php:19
+msgid "Go to Settings > Reading and set \"Front page displays\" to \"A static page\"."
+msgstr "Ve a «Ajustes > Lectura» y establece «La página de inicio muestra» en «Una página estática»."
+
+#: inc/welcome/getting-started.php:18
+msgid "Create or edit a page, and assign it the One-Page Template from the Page Attributes section."
+msgstr "Crea o edita una página, asígnale la plantilla de una página desde la sección de «Atributos de página»."
+
+#: inc/welcome/getting-started.php:16
+msgid "Step 2 - Configure Homepage Template"
+msgstr "Paso 2: configura la plantilla de la página de inicio"
+
+#: inc/welcome/getting-started.php:7 inc/welcome/getting-started.php:8
+#: inc/welcome/getting-started.php:9
+msgid "plugin"
+msgstr "plugin"
+
+#: inc/welcome/getting-started.php:5
+msgid "Step 1 - Install Plugins"
+msgstr "Paso 1: instala los plugins"
+
+#: inc/welcome/theme-welcome.php:137
+msgid "Visit Website"
+msgstr "Visita la web"
+
+#: inc/welcome/theme-welcome.php:135
+msgid "Integral is a powerful one-page theme for professionals, agencies and businesses. Its strength lies in displaying content on a single page in a simple and elegant manner. It's super easy to customize and allows you to create a stunning website in minutes."
+msgstr "Integral es un potente tema de una página para profesionales, agencias y negocios. Su fuerza radica en mostrar el contenido en una sola página de una forma sencilla y elegante. Es muy fácil de personalizar y te permite crear una web impresionante en minutos."
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/class-tgm-plugin-activation.php:3520
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "Instalando el plugin %1$s (%2$d/%3$d)"
+
+#: inc/class-tgm-plugin-activation.php:3518
+msgid "All installations have been completed."
+msgstr "Todas las instalaciones han sido completadas."
+
+#. translators: 1: plugin name.
+#: inc/class-tgm-plugin-activation.php:3517
+msgid "%1$s installed successfully."
+msgstr "%1$s se ha instalado correctamente."
+
+#: inc/class-tgm-plugin-activation.php:3515
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "El proceso de instalación está comenzando. Este proceso puede tardar un poco en algunos servidores, así que, por favor, ten paciencia."
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/class-tgm-plugin-activation.php:3512
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "Instalando y activando el plugin %1$s (%2$d/%3$d)"
+
+#: inc/class-tgm-plugin-activation.php:3510
+msgid "All installations and activations have been completed."
+msgstr "Todas las instalaciones y activaciones han sido completadas."
+
+#. translators: 1: plugin name.
+#: inc/class-tgm-plugin-activation.php:3509
+#: inc/class-tgm-plugin-activation.php:3517
+msgid "Hide Details"
+msgstr "Ocultar los detalles"
+
+#. translators: 1: plugin name.
+#: inc/class-tgm-plugin-activation.php:3509
+#: inc/class-tgm-plugin-activation.php:3517
+msgid "Show Details"
+msgstr "Mostrar los detalles"
+
+#. translators: 1: plugin name.
+#: inc/class-tgm-plugin-activation.php:3509
+msgid "%1$s installed and activated successfully."
+msgstr "%1$s se ha instalado y activado correctamente."
+
+#: inc/class-tgm-plugin-activation.php:3507
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "El proceso de instalación y activación está comenzando. Este proceso puede tardar un poco en algunos servidores, así que, por favor, sé paciente."
+
+#. translators: 1: plugin name.
+#: inc/class-tgm-plugin-activation.php:3503
+msgid "The installation of %1$s failed."
+msgstr "La instalación de %1$s ha fallado."
+
+#. translators: 1: plugin name, 2: error message.
+#: inc/class-tgm-plugin-activation.php:3501
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr "Ha ocurrido un error durante la instalación de %1$s: <strong>%2$s</strong>."
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: inc/class-tgm-plugin-activation.php:3498
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr "Actualizando el plugin %1$s (%2$d/%3$d)"
+
+#: inc/class-tgm-plugin-activation.php:3158
+msgid "Plugin activation failed."
+msgstr "La activación del plugin ha fallado."
+
+#: inc/class-tgm-plugin-activation.php:2934
+msgid "No plugins are available to be activated at this time."
+msgstr "En este momento no hay plugins disponibles para activar."
+
+#: inc/class-tgm-plugin-activation.php:2908
+msgid "No plugins were selected to be activated. No action taken."
+msgstr "No se han seleccionado plugins para activar. No se realizará ninguna acción."
+
+#: inc/class-tgm-plugin-activation.php:2802
+msgid "No plugins are available to be updated at this time."
+msgstr "En este momento no hay plugins disponibles para actualizar."
+
+#: inc/class-tgm-plugin-activation.php:2800
+msgid "No plugins are available to be installed at this time."
+msgstr "En este momento no hay plugins disponibles para instalar."
+
+#: inc/class-tgm-plugin-activation.php:2759
+msgid "No plugins were selected to be updated. No action taken."
+msgstr "No se han seleccionado plugins para actualizar. No se ha realizado ninguna acción."
+
+#: inc/class-tgm-plugin-activation.php:2757
+msgid "No plugins were selected to be installed. No action taken."
+msgstr "No se han seleccionado plugins para instalar. No se realizará ninguna acción."
+
+#: inc/class-tgm-plugin-activation.php:2726
+msgid "Activate"
+msgstr "Activar"
+
+#: inc/class-tgm-plugin-activation.php:2723
+msgid "Update"
+msgstr "Actualizar"
+
+#: inc/class-tgm-plugin-activation.php:2717 inc/welcome/getting-started.php:7
+#: inc/welcome/getting-started.php:8 inc/welcome/getting-started.php:9
+msgid "Install"
+msgstr "Instalar"
+
+#: inc/class-tgm-plugin-activation.php:2684
+msgid "Upgrade message from the plugin author:"
+msgstr "Mensaje de actualización del autor del plugin:"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/class-tgm-plugin-activation.php:2614
+msgid "Activate %2$s"
+msgstr "Activar %2$s"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/class-tgm-plugin-activation.php:2608
+msgid "Update %2$s"
+msgstr "Actualizar %2$s"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: inc/class-tgm-plugin-activation.php:2603
+msgid "Install %2$s"
+msgstr "Instalar %2$s"
+
+#: inc/class-tgm-plugin-activation.php:2554
+msgid "Status"
+msgstr "Estado"
+
+#: inc/class-tgm-plugin-activation.php:2553
+msgid "Version"
+msgstr "Versión"
+
+#: inc/class-tgm-plugin-activation.php:2549
+msgid "Type"
+msgstr "Tipos"
+
+#: inc/class-tgm-plugin-activation.php:2548
+msgid "Source"
+msgstr "Fuente"
+
+#: inc/class-tgm-plugin-activation.php:2547
+msgid "Plugin"
+msgstr "Extensión"
+
+#: inc/class-tgm-plugin-activation.php:2533
+msgid "No plugins to install, update or activate."
+msgstr "No hay plugins que instalar, actualizar o activar."
+
+#: inc/class-tgm-plugin-activation.php:2510
+msgid "Available version:"
+msgstr "Versión disponible:"
+
+#: inc/class-tgm-plugin-activation.php:2498
+msgid "Minimum required version:"
+msgstr "Versión mínima necesaria:"
+
+#: inc/class-tgm-plugin-activation.php:2490
+msgid "Installed version:"
+msgstr "Versión instalada:"
+
+#: inc/class-tgm-plugin-activation.php:2482
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr "desconocido"
+
+#. translators: 1: number of plugins.
+#: inc/class-tgm-plugin-activation.php:2400
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] "Para activar <span class=\"count\">(%s)</span>"
+msgstr[1] "Para activar <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: inc/class-tgm-plugin-activation.php:2396
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] "Actualización disponibles <span class=\"count\">(%s)</span>"
+msgstr[1] "Actualizaciones disponible <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: inc/class-tgm-plugin-activation.php:2392
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] "Para instalar <span class=\"count\">(%s)</span>"
+msgstr[1] "Para instalar <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: inc/class-tgm-plugin-activation.php:2388
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] "Todos <span class=\"count\">(%s)</span>"
+msgstr[1] "Todos <span class=\"count\">(%s)</span>"
+
+#. translators: 1: install status, 2: update status
+#: inc/class-tgm-plugin-activation.php:2342
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr "%1$s, %2$s"
+
+#: inc/class-tgm-plugin-activation.php:2333
+msgid "Update recommended"
+msgstr "Actualización recomendada"
+
+#: inc/class-tgm-plugin-activation.php:2330
+msgid "Requires Update"
+msgstr "Necesita actualización"
+
+#: inc/class-tgm-plugin-activation.php:2327
+msgid "Required Update not Available"
+msgstr "No está disponible la actualización necesaria"
+
+#: inc/class-tgm-plugin-activation.php:2321
+msgid "Active"
+msgstr "Activado"
+
+#: inc/class-tgm-plugin-activation.php:2319
+msgid "Installed But Not Activated"
+msgstr "Instalado, pero no activado"
+
+#: inc/class-tgm-plugin-activation.php:2315
+msgid "Not Installed"
+msgstr "No está instalado"
+
+#: inc/class-tgm-plugin-activation.php:2298
+msgid "Pre-Packaged"
+msgstr "Preempaquetado"
+
+#: inc/class-tgm-plugin-activation.php:2295
+msgid "External Source"
+msgstr "Fuente externa"
+
+#: inc/class-tgm-plugin-activation.php:2292
+msgid "WordPress Repository"
+msgstr "Repositorio de WordPress"
+
+#: inc/class-tgm-plugin-activation.php:2276
+msgid "Recommended"
+msgstr "Recomendado"
+
+#: inc/class-tgm-plugin-activation.php:2273
+msgid "Required"
+msgstr "Necesario"
+
+#. translators: %s: version number
+#: inc/class-tgm-plugin-activation.php:1982
+msgid "TGMPA v%s"
+msgstr "TGMPA v%s"
+
+#: inc/class-tgm-plugin-activation.php:1121
+#: inc/class-tgm-plugin-activation.php:2948
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr "y"
+
+#: inc/class-tgm-plugin-activation.php:937
+msgid "The remote plugin package consists of more than one file, but the files are not packaged in a folder."
+msgstr "El paquete remoto del plugin está compuesto por más de un archivo, pero los archivos no están dentro de una carpeta."
+
+#: inc/class-tgm-plugin-activation.php:934
+#: inc/class-tgm-plugin-activation.php:937
+msgid "Please contact the plugin provider and ask them to package their plugin according to the WordPress guidelines."
+msgstr "Por favor, ponte en contacto con el autor del plugin y pídele que lo empaquete de acuerdo a las prácticas recomendadas de WordPress."
+
+#: inc/class-tgm-plugin-activation.php:934
+msgid "The remote plugin package does not contain a folder with the desired slug and renaming did not work."
+msgstr "El paquete remoto del plugin no contiene una carpeta con el slug apropiado y no funcionó el cambio de nombre."
+
+#: inc/class-tgm-plugin-activation.php:523
+msgid "Update Required"
+msgstr "Actualización necesaria"
+
+#: inc/class-tgm-plugin-activation.php:522
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr "Este plugin debe actualizarse para que sea compatible con tu tema."
+
+#: inc/class-tgm-plugin-activation.php:397
+msgid "Please contact the administrator of this site for help."
+msgstr "Por favor, pídele ayuda al administrador de este sitio."
+
+#: inc/class-tgm-plugin-activation.php:396
+msgid "There are one or more required or recommended plugins to install, update or activate."
+msgstr "Hay uno o más plugins necesarios o recomendados para instalar, actualizar o activar."
+
+#: inc/class-tgm-plugin-activation.php:395
+msgid "Dismiss this notice"
+msgstr "Descartar este aviso"
+
+#. translators: 1: dashboard link.
+#: inc/class-tgm-plugin-activation.php:394
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "Todos los plugins instalados y activados correctamente. %1$s"
+
+#. translators: 1: plugin name.
+#: inc/class-tgm-plugin-activation.php:392
+msgid "Plugin not activated. A higher version of %s is needed for this theme. Please update the plugin."
+msgstr "El plugin no se ha activado. Este tema necesita una versión superior de  %s. Por favor, actualiza el plugin."
+
+#. translators: 1: plugin name.
+#: inc/class-tgm-plugin-activation.php:390
+msgid "No action taken. Plugin %1$s was already active."
+msgstr "No se ha realizado ninguna acción. El plugin %1$s ya está activo."
+
+#: inc/class-tgm-plugin-activation.php:388
+#: inc/class-tgm-plugin-activation.php:2952
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] "El siguiente plugin se ha activado correctamente:"
+msgstr[1] "Los siguientes plugin se han activado correctamente:"
+
+#: inc/class-tgm-plugin-activation.php:386
+#: inc/class-tgm-plugin-activation.php:827
+#: inc/class-tgm-plugin-activation.php:2533
+#: inc/class-tgm-plugin-activation.php:3580
+msgid "Return to the Dashboard"
+msgstr "Volver al escritorio"
+
+#: inc/class-tgm-plugin-activation.php:375
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] "Comenzar a actualizar el plugin"
+msgstr[1] "Comenzar a actualizar los plugins"
+
+#. translators: %s: plugin name.
+#: inc/class-tgm-plugin-activation.php:332
+msgid "Updating Plugin: %s"
+msgstr "Actualizando el plugin: %s"
+
+#: inc/welcome/theme-welcome.php:102
+msgid "Upgrade to Integral Pro ➡"
+msgstr "Actualizar a Integral Pro ➡"
+
+#: inc/widgets.php:78
+msgid "The OUR TEAM section which appears on the homepage. Drag and drop widgets titled [Integral - Team Member Widget] here to add team members."
+msgstr "La sección NUESTRO EQUIPO que aparece en la página de inicio. Arrastra y suelta widgets con el título «Integral: widget de miembro del equipo» aquí para añadir miembros del equipo."
+
+#: inc/widgets.php:76
+msgid "Homepage Team Section"
+msgstr "Sección del equipo de la página de inicio"
+
+#: inc/widgets.php:66
+msgid "The SERVICES section which appears on the homepage. Drag and drop widgets titled [Integral - Service Widget] here to add services."
+msgstr "La sección SERVICIOS que aparece en la página de inicio. Arrastra y suelta widgets con el título «Integral: widget de servicio» aquí para añadir servicios."
+
+#: inc/widgets.php:64
+msgid "Homepage Services Section"
+msgstr "Sección de servicios de la página de inicio"
+
+#: inc/widgets.php:54
+msgid "The TESTIMONIALS section which appears on the homepage. Drag and drop widgets titled [Integral - Testimonial Widget]  here to add testimonials."
+msgstr "La sección TESTIMONIOS que aparece en la página de inicio. Arrastra y suelta widgets con el título «Integral: widget de testimonio» aquí para añadir testimonios."
+
+#: inc/widgets.php:52
+msgid "Homepage Testimonials Section"
+msgstr "Sección de testimonios de la página de inicio"
+
+#: inc/widgets.php:44
+msgid "The CLIENTS section which appears on the homepage. Drag and drop widgets titled [Integral - Client Widget] here to add clients."
+msgstr "La sección CLIENTES que aparece en la página de inicio. Arrastra y suelta widgets con el título «Integral: widget de cliente» aquí para añadir clientes."
+
+#: inc/widgets.php:42
+msgid "Homepage Clients Section"
+msgstr "Sección de clientes de la página de inicio"
+
+#: inc/widgets.php:32
+msgid "The PROJECTS SINGLE section which appears on the homepage. Drag and drop widgets titled [Integral - Single Project Widget] here to add projects."
+msgstr "La sección PROYECTOS INDIVIDUALES que aparece en la página de inicio. Arrastra y suelta widgets con el título «Integral: widget de proyecto individual» aquí para añadir proyectos."
+
+#: inc/widgets.php:30
+msgid "Homepage Single Projects Section"
+msgstr "Sección de proyectos individuales de la página de inicio"
+
+#: inc/widgets.php:22
+msgid "The FEATURES section which appears on the homepage. Drag and drop widgets titled [Integral - Feature Widget] here to add features."
+msgstr "La sección CARACTERÍSTICAS que aparece en la página de inicio. Arrastra y suelta widgets con el título «Integral: widget de característica» aquí para añadir características."
+
+#: inc/widgets.php:20
+msgid "Homepage Features Section"
+msgstr "Sección de características de la página de inicio"
+
+#: inc/widgets.php:14
+msgid "Widgets in this area will be shown in the right sidebar."
+msgstr "Los widgets en esta área aparecerán en la barra lateral derecha."
+
+#: inc/widgets.php:12
+msgid "Right Sidebar"
+msgstr "Barra lateral derecha"
+
+#: inc/customizer.php:31
+msgid "Upload a logo to replace the default site name and description in the header. Recommended size of 250px in width by 40px in height. However, if you upload a larger logo the header will adjust."
+msgstr "Sube un logotipo para reemplazar el nombre y la descripción por defecto del sitio en la cabecera. El tamaño recomendado es de 250px de ancho por 40px de alto. Sin embargo, si subes un logotipo más grande, se ajustará la cabecera."
+
+#: inc/customizer.php:28 inc/options.php:597
+msgid "Logo"
+msgstr "Logotipo"
+
+#: inc/tgm-plugin-activation.php:92
+msgid "All plugins installed and activated successfully. %s"
+msgstr "Todos los plugins se han instalado y activado correctamente. %s"
+
+#: inc/class-tgm-plugin-activation.php:387
+#: inc/class-tgm-plugin-activation.php:3159 inc/tgm-plugin-activation.php:91
+msgid "Plugin activated successfully."
+msgstr "El plugin se ha activado correctamente."
+
+#: inc/class-tgm-plugin-activation.php:385 inc/tgm-plugin-activation.php:90
+msgid "Return to Required Plugins Installer"
+msgstr "Volver al instalador de plugins necesarios"
+
+#: inc/class-tgm-plugin-activation.php:380 inc/tgm-plugin-activation.php:89
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] "Comenzar a activar plugin"
+msgstr[1] "Comenzar a activar los plugins"
+
+#: inc/class-tgm-plugin-activation.php:370 inc/tgm-plugin-activation.php:88
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] "Comenzar a instalar el plugin"
+msgstr[1] "Comenzar a instalar los plugins"
+
+#: inc/tgm-plugin-activation.php:87
+msgid "Sorry, but you do not have the correct permissions to update the %s plugin. Contact the administrator of this site for help on getting the plugin updated."
+msgid_plural "Sorry, but you do not have the correct permissions to update the %s plugins. Contact the administrator of this site for help on getting the plugins updated."
+msgstr[0] "Lo siento, no tienes los permisos necesarios para actualizar el plugin %s. Contacta con el administrador de la web para que te ayude a actualizarlo."
+msgstr[1] "Lo siento, no tienes los permisos necesarios para actualizar los plugins %s. Contacta con el administrador de la web para que te ayude a actualizarlos."
+
+#. translators: 1: plugin name(s).
+#: inc/class-tgm-plugin-activation.php:346 inc/tgm-plugin-activation.php:86
+msgid "The following plugin needs to be updated to its latest version to ensure maximum compatibility with this theme: %1$s."
+msgid_plural "The following plugins need to be updated to their latest version to ensure maximum compatibility with this theme: %1$s."
+msgstr[0] "El siguiente plugin tiene que ser actualizado a su última versión para asegurar la máxima compatibilidad con este tema: %1$s."
+msgstr[1] "Estos plugins deben actualizarse a su última versión para garantizar la máxima compatibilidad con el tema: %1$s."
+
+#: inc/tgm-plugin-activation.php:85
+msgid "Sorry, but you do not have the correct permissions to activate the %s plugin. Contact the administrator of this site for help on getting the plugin activated."
+msgid_plural "Sorry, but you do not have the correct permissions to activate the %s plugins. Contact the administrator of this site for help on getting the plugins activated."
+msgstr[0] "Lo siento, no tienes los permisos necesarios para activar el plugin %s. Contacta con el administrador de la web para que te ayude a activarlo."
+msgstr[1] "Lo siento, no tienes los permisos necesarios para activar los plugins %s. Contacta con el administrador de la web para que te ayude a activarlos."
+
+#. translators: 1: plugin name(s).
+#: inc/class-tgm-plugin-activation.php:364 inc/tgm-plugin-activation.php:84
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] "El siguiente plugin recomendado está actualmente desactivado: %1$s."
+msgstr[1] "Los siguientes plugins recomendados están actualmente desactivados: %1$s."
+
+#. translators: 1: plugin name(s).
+#: inc/class-tgm-plugin-activation.php:358 inc/tgm-plugin-activation.php:83
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] "El siguiente plugin necesario está actualmente desactivado: %1$s."
+msgstr[1] "Los siguientes plugins necesarios está actualmente desactivados: %1$s."
+
+#: inc/tgm-plugin-activation.php:82
+msgid "Sorry, but you do not have the correct permissions to install the %s plugin. Contact the administrator of this site for help on getting the plugin installed."
+msgid_plural "Sorry, but you do not have the correct permissions to install the %s plugins. Contact the administrator of this site for help on getting the plugins installed."
+msgstr[0] "Lo siento, no tienes los permisos necesarios para instalar el plugin %s. Contacta con el administrador de la web para que te ayude a instalarlo."
+msgstr[1] "Lo siento, no tienes los permisos necesarios para instalar los plugins %s. Contacta con el administrador de la web para que te ayude a instalarlos."
+
+#. translators: 1: plugin name(s).
+#: inc/class-tgm-plugin-activation.php:340 inc/tgm-plugin-activation.php:81
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] "Este tema recomienda el siguiente plugin: %1$s."
+msgstr[1] "Este tema recomienda los siguientes plugins: %1$s."
+
+#. translators: 1: plugin name(s).
+#: inc/class-tgm-plugin-activation.php:334 inc/tgm-plugin-activation.php:80
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] "Este tema necesita el siguiente plugin: %1$s."
+msgstr[1] "Este tema necesita los siguientes plugins: %1$s."
+
+#: inc/class-tgm-plugin-activation.php:333 inc/tgm-plugin-activation.php:79
+msgid "Something went wrong with the plugin API."
+msgstr "Algo salió mal con la API del plugin."
+
+#. translators: %s: plugin name.
+#: inc/class-tgm-plugin-activation.php:330 inc/tgm-plugin-activation.php:78
+msgid "Installing Plugin: %s"
+msgstr "Instalando el plugin: %s"
+
+#: inc/class-tgm-plugin-activation.php:328 inc/tgm-plugin-activation.php:77
+#: inc/welcome/getting-started.php:12
+msgid "Install Plugins"
+msgstr "Instalar plugins"
+
+#: inc/class-tgm-plugin-activation.php:327 inc/tgm-plugin-activation.php:76
+msgid "Install Required Plugins"
+msgstr "Instalar los plugins necesarios"
+
+#: inc/tgm-plugin-activation.php:52 inc/welcome/getting-started.php:8
+msgid "Contact Form 7"
+msgstr "Contact Form 7"
+
+#: inc/tgm-plugin-activation.php:47 inc/welcome/getting-started.php:7
+msgid "Redux Framework"
+msgstr "Redux Framework"
+
+#: inc/setup.php:24
+msgid "Primary Menu"
+msgstr "Menú principal"
+
+#: comments.php:66
+msgid "Cancel reply"
+msgstr "Cancelar respuesta"
+
+#: comments.php:64
+msgid "Website"
+msgstr "Web"
+
+#: comments.php:63
+msgid "Email"
+msgstr "Correo electrónico"
+
+#: comments.php:62 inc/widgets/our_team_widget.php:123
+msgid "Name"
+msgstr "Nombre"
+
+#: comments.php:60
+msgid "Comment"
+msgstr "Comentario"
+
+#: comments.php:59 comments.php:68
+msgid "Post Comment"
+msgstr "Comentario de la entrada"
+
+#: comments.php:58
+msgid "Cancel Comment"
+msgstr "Cancelar comentario"
+
+#: comments.php:57
+msgid "Leave a Comment to %s"
+msgstr "Dejar un comentario a %s"
+
+#: comments.php:56
+msgid "Leave a Comment"
+msgstr "Dejar un comentario"
+
+#: comments.php:47
+msgid "Comments are closed."
+msgstr "Los comentarios están cerrados."
+
+#: comments.php:32 comments.php:43
+msgid "Newer Comments &rarr;"
+msgstr "Comentarios siguientes &rarr;"
+
+#: comments.php:30 comments.php:41
+msgid "&larr; Older Comments"
+msgstr "&larr; Comentarios anteriores"
+
+#: comments.php:29 comments.php:40
+msgid "Comment navigation"
+msgstr "Navegación de comentarios"
+
+#: comments.php:23
+msgid "Leave a comment"
+msgstr "Dejar un comentario"
+
+#: archive.php:107 category.php:73 index.php:66 search.php:56
+msgid "&nbsp;"
+msgstr "&nbsp;"
+
+#: archive.php:106 category.php:72 index.php:65 search.php:55
+msgid "Next"
+msgstr "Siguiente"
+
+#: archive.php:105 category.php:71 index.php:64 search.php:54
+msgid "Previous"
+msgstr "Anterior"
+
+#: archive.php:39
+msgid "Archives"
+msgstr "Archivos"
+
+#: archive.php:33 archive.php:54
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#: archive.php:33
+msgid "Yearly Archives"
+msgstr "Archivo por años"
+
+#: archive.php:30 archive.php:51
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "F Y"
+
+#: archive.php:30
+msgid "Monthly Archives"
+msgstr "Archivo por meses"
+
+#: archive.php:27
+msgid "Daily Archives"
+msgstr "Archivo por días"
+
+#: 404.php:24
+msgid "Error 404 : Page not found!"
+msgstr "Error 404: ¡Página no encontrada!"
+
+#. Author URI of the theme
+#, gp-priority: low
+msgid "https://www.themely.com/"
+msgstr "https://www.themely.com/"
+
+#. Author of the theme
+#, gp-priority: low
+msgid "Themely"
+msgstr "Themely"
+
+#. Theme URI of the theme
+#, gp-priority: low
+msgid "https://www.themely.com/themes/integral/"
+msgstr "https://www.themely.com/themes/integral/"

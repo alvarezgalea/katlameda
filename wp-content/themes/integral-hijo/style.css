@@ -1,0 +1,15 @@
+/*
+Theme Name: integral-hijo
+Theme URI: http://localhost:8080/wordpress
+Version: 4.0
+Description: Tema hijo de A theme
+Author: Tu
+Author URI: http://loquesea.es
+Template: integral
+*/
+ 
+/*----------------- Cambios a partir de aquí -------------------------------*/
+
+/* Poner los links en naranja */
+a { text-decoration: none; color: green; }
+a:hover { text-decoration: underline; }
